@@ -23,6 +23,6 @@ I'm a passionate self-taught `React frontend developer`, and fullstack developer
 
 <br>
 
-#### My training 🦾
+My **Codewars** process [here](https://www.codewars.com/users/IvanPostarnak) 🦾
 
 <img alt="Codewars | IvanPostarnak" src="https://www.codewars.com/users/IvanPostarnak/badges/large" />
