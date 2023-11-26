@@ -1,7 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPostarnak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="IvanPostarnak's github stats" /></a>
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IvanPostarnak&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 **Learning now**
 
