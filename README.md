@@ -2,7 +2,7 @@
 
 <br>
  
-I'm a passionate self-taught `React frontend developer`, and fullstack developer in progress😆 ...
+I'm a passionate self-taught `React frontend developer`, and fullstack developer in progress😆
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -15,7 +15,7 @@ I'm a passionate self-taught `React frontend developer`, and fullstack developer
 
 - 🔭 I’m currently working on [Kelysty React UI library](https://github.com/Kelysty)
   
-- 🌱 and learingn **Webpack, Docker, Redis** and **ReactNative**
+- 🌱 and learingn **Webpack, Docker** and **ReactNative**
  
 - 💬 Feel free to ask me any question [here](https://github.com/IvanPostarnak/IvanPostarnak/issues)
  
