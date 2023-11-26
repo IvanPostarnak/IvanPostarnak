@@ -4,6 +4,8 @@
  
 I'm a passionate self-taught `React frontend developer`, and fullstack developer in progress😆
 
+<br>
+
 - 🔭 I’m currently working on [Kelysty React UI library](https://github.com/Kelysty)
   
 - 🌱 and learingn **Webpack, Docker** and **ReactNative**
