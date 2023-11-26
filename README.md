@@ -1,6 +1,4 @@
 ### Hi 👋, my name is Ivan
-
-<br>
  
 I'm a passionate self-taught `React frontend developer`, and fullstack developer in progress😆
 
