@@ -33,7 +33,7 @@ I'm a self-taught passionate React FrontEnd developer (fullstack in progress...)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=transparent&hide_border=true&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanPostarnak&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPostarnak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IvanPostarnak's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPostarnak&layout=compact&theme=buefy&hide_border=true" /></a>
 | ------------- | ------------- |
