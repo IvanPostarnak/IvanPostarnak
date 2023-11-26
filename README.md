@@ -15,6 +15,7 @@ I'm a passionate self-taught `React frontend developer`, and fullstack developer
 - 📦 And [here](https://www.npmjs.com/~ivanpostarnak) is my NPM profile
 
 <br>
+<br>
 
 My **Codewars account** [here](https://www.codewars.com/users/IvanPostarnak) 🦾
 
